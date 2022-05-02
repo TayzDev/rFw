@@ -2,7 +2,7 @@ local PlayerLoaded = false
 local player = {}
 
 Citizen.CreateThread(function()
-    ShowLoadingMessage("Loading player data ...", 2, 5000)
+    ShowLoadingMessage("Chargement de votre joueur...", 2, 5000)
     TriggerServerEvent(config.prefix.."InitPlayer")
 end)
 
