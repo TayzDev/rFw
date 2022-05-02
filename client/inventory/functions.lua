@@ -1,6 +1,6 @@
 
-RegisterKeyMapping("inventory", "Open inventory", 'keyboard', config.inventoryKey)
-RegisterCommand("inventory", function()
+RegisterKeyMapping("inventaire", "Ouvrir l'inventaire", 'keyboard', config.inventoryKey)
+RegisterCommand("inventaire", function()
     OpenInventoryMenu()
 end, false)
 
