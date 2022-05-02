@@ -1,26 +1,30 @@
 config = {
-    prefix = "rFw:", -- Events prefix, i suggest you to change that
-    defaultBank = 2000,
-    defaultMoney = 500,
+    prefix = "rFw:", -- Prefix des events, a changer si vous le souhaiter.
+    defaultBank = 2000, -- L'argent de départ en Banque.
+    defaultMoney = 500, -- L'argent de départ en Liquide.
 
     defaultWeightLimit = 50,
 
-    defaultPos = vector3(0.0, 0.0, 0.0),
+    defaultPos = vector3(0.0, 0.0, 0.0), -- La pos par défaut (le spawn)
 
-    savingAllPlayers = 5, -- in minutes, exemple 5 will mean every 5 minutes every players are saved
+    savingAllPlayers = 5, -- en minutes, exemple 5 signifiera que toutes les 5 minutes tous les joueurs sont sauvegarder
 
-    inventoryKey = "F2",
+    inventoryKey = "F5", -- Touche pour ouvrrir l'inventaire
 
     items = {
-        ["test"] = {label = "Item test", weight = 1},
+        ["test"] = {label = "Item test", weight = 1}, -- Différents items
     },
 
 
-    society = {
+    society = { -- Vos société.
         ["police"] = {
             {grade = 1, label = "Cadet"},
             {grade = 2, label = "Officier"},
             {grade = 3, label = "Commandant"},
+         ["ambulance"] = {
+            {grade = 1, label = "Ambulancier"},
+            {grade = 2, label = "Chirurgien"},
+            {grade = 3, label = "PDG"},
         }
     }
 }
