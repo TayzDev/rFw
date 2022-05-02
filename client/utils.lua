@@ -29,7 +29,7 @@ function RegisterItemAction(item, action)
 	if config.items[item] ~= nil then	
 		config.items[item].action = action
 	else
-		print("^1ERROR:^7 Try to add action to invalid item")
+		print("^1ERREUR:^7 Essayer d'ajouter une action à un item non valide")
 	end
 end
 
@@ -38,9 +38,9 @@ function UseItem(item)
 		if config.items[item].action ~= nil then
 			config.items[item].action()
 		else
-			print("^1ERROR:^7 No action on item '"..item.."'")
+			print("^1ERREUR:^7 Pas d'action dans l'item '"..item.."'")
 		end
 	else
-		print("^1ERROR:^7 Try to use invalid item")
+		print("^1ERREUR:^7 Essaie d'utiliser un item invalide")
 	end
 end
