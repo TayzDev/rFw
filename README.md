@@ -2,8 +2,8 @@
 
 [![N|Project](https://img.shields.io/badge/rFw-FiveM%20Framework-green)](https://github.com/TayDev/rFw)
 [![N|Discord](https://img.shields.io/discord/731533946059489400?color=green&label=Discord&style=flat-square)](https://discord.gg/BKVkQsS)
-[![N|Discord](https://img.shields.io/github/repo-size/Rubylium/rFw?style=flat-square)](https://discord.gg/BKVkQsS)
-[![N|Discord](https://img.shields.io/github/v/release/Rubylium/rFw?style=for-the-badge)](https://discord.gg/BKVkQsS)
+[![N|Discord](https://img.shields.io/github/repo-size/TayzDev/rFw?style=flat-square)](https://discord.gg/BKVkQsS)
+[![N|Discord](https://img.shields.io/github/v/release/TayzDev/rFw?style=for-the-badge)](https://discord.gg/BKVkQsS)
 
 Public framework for FiveM
 
