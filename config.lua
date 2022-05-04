@@ -21,7 +21,7 @@ config = {
             {grade = 1, label = "Cadet"},
             {grade = 2, label = "Officier"},
             {grade = 3, label = "Commandant"},
-     }
+     },
      ["ambulance"] = {
             {grade = 1, label = "Ambulancier"},
             {grade = 2, label = "Chirurgien"},
