@@ -26,5 +26,6 @@ config = {
             {grade = 2, label = "Chirurgien"},
             {grade = 3, label = "PDG"},
         }
-    }
+     }
+  }
 }
