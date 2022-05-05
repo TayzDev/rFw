@@ -102,7 +102,7 @@ exports {
     "GetPlayerBank",
     "GetPlayerInv",
     "IsPlayerLoaded",
-    "RegisterNewItem",
+    "RegisterNewItem", -- new item system.
     "GetPlayerUniqueId",
     "RegisterItemAction",
     "UseItem",
