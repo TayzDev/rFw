@@ -12,7 +12,8 @@ config = {
     inventoryKey = "F5", -- Touche pour ouvrrir l'inventaire
 
     items = {
-        ["test"] = {label = "Item test", weight = 1}, -- Différents items
+        ["bread"] = {label = "Pain", weight = 1}, -- Différents items
+        ["water"] = {label = "Eau", weight = 1},
     },
 
 
