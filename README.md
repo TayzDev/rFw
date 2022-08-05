@@ -13,7 +13,7 @@ Public framework for FiveM
 [![N|Discord](https://img.shields.io/github/commit-activity/m/TayzDev/rFw)](https://discord.gg/BKVkQsS)
 [![N|Discord](https://img.shields.io/github/contributors/TayzDev/rFw)](https://discord.gg/BKVkQsS)
 [![N|Discord](https://img.shields.io/github/last-commit/TayzDev/rFw)](https://discord.gg/BKVkQsS)
-[![N|Discord](https://img.shields.io/maintenance/no/2022)](https://discord.gg/BKVkQsS)
+[![N|Discord](https://img.shields.io/maintenance/yes/2022)](https://discord.gg/BKVkQsS)
 [![N|Discord](https://img.shields.io/github/languages/top/TayzDev/rFw)](https://discord.gg/BKVkQsS)
 
 # Discord
